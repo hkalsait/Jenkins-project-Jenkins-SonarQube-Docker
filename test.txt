@@ -1,0 +1,1 @@
+This file is for testing the Jenkins pipeline is automatically triggers or not.
